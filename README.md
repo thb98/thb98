@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=designing+PCBs+that+power+real+products;building+smart+systems+with+IoT;creating+embedded+firmware+for+devices" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&center=true&vCenter=true&width=600&lines=Designing+real-world+PCBs;Building+IoT+systems+that+connect;Creating+firmware+for+embedded+devices" />
 </p>
 
 ---
@@ -13,8 +13,8 @@
 ### 🛠️ What I Focus On
 
 - ⚙️ **PCB Design** – Creating production-ready custom PCBs with sensor integration, power optimization, and signal integrity in mind.
-- 🔌 **Embedded Systems** – Firmware development for microcontrollers (ESP32, STM32, SAMD21, etc.).
-- 📡 **IoT Applications** – Smart systems communicating over UART, MQTT, RS485, and Wi-Fi.
+- 🔌 **Embedded Systems** – Firmware development for microcontrollers.
+- 📡 **IoT Applications** – Smart systems communicating over UART, MQTT, RS485, and 4G and Wi-Fi.
 - 🧪 **Prototyping & Product Development** – Full-cycle from schematic to functional prototype with real-time testing and debugging.
 
 ---
@@ -46,11 +46,11 @@ While my main expertise is in hardware and embedded systems, I also work with:
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahadev&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thb98&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahadev&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thb98&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -58,34 +58,34 @@ While my main expertise is in hardware and embedded systems, I also work with:
 ### 🏆 GitHub Trophy Case
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tahadev&theme=onedark&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=thb98&theme=onedark&column=7" />
 </p>
 
 ---
 
 ### 🧠 Highlight Projects
 
-- 🔧 **Smart Coffee Machine System**
+- **Smart Machine System**
   - Custom PCB, embedded control, motor/heater systems, UART/MQTT communication, touchscreen UI (LVGL).
   
-- 💊 **Medication Dispenser**
+-  **Automatic Dispenser**
   - Wi-Fi connected embedded system with dispensing motors, sensor feedback, and app integration.
 
-- 📦 **Custom Controller Boards**
+-  **Custom Controller Boards**
   - Designed boards for commercial and industrial applications with robust firmware and interfacing.
 
 ---
 
 ### 📫 Contact Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🌐 Portfolio: [yourwebsite.com]
-- 📬 Email: [your@email.com]
+- 💼 [LinkedIn](https://linkedin.com/in/tahabayindir)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahadev&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=thb98&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 ---
 
-> _“Perfection is not attainable, but if we chase perfection we can catch excellence.”_ – Vince Lombardi
+### 📫 Honesty is the key
+
+> _“If you tell the truth you don't have to remember anything.”_ – Mark Twain
