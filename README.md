@@ -1,36 +1,52 @@
-<h1 align="center">Hi there, I'm Taha 👋</h1>
+<h1 align="center">Hi, I'm Taha 👋</h1>
 
 <p align="center">
-  🔧 Electronics Engineer | 📱 React Native Developer | 🌐 IoT Innovator
+  ⚙️ Electronics & Embedded Systems Engineer | 🔌 IoT Developer | 🔧 PCB Designer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Building+smart+devices+%F0%9F%A4%96;Crafting+connected+apps+%F0%9F%93%B1;IoT+%2B+Mobile+%2B+Backend+%3D+%E2%9C%94%EF%B8%8F" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Designing+PCBs+that+power+real+products;Building+smart+systems+with+IoT;Creating+embedded+firmware+for+devices" />
 </p>
 
 ---
 
-### 🚀 What I Do
-- 🔌 **Embedded Systems** — ESP32, UART, MQTT, RS485, LVGL
-- 📱 **Mobile Apps** — React Native (Expo + Bare), Bluetooth, Serial, Payment modules
-- 🌐 **Backend Dev** — Node.js + MongoDB, Firestore, Express APIs
-- 🔧 **PCB Design** — Real-world integration with motors, pumps, sensors
-- 🛠️ **Product Development** — From 3D design (SolidWorks) to manufacturing-ready hardware
+### 🛠️ What I Focus On
+
+- ⚙️ **PCB Design** – Creating production-ready custom PCBs with sensor integration, power optimization, and signal integrity in mind.
+- 🔌 **Embedded Systems** – Firmware development for microcontrollers (ESP32, STM32, SAMD21, etc.).
+- 📡 **IoT Applications** – Smart systems communicating over UART, MQTT, RS485, and Wi-Fi.
+- 🧪 **Prototyping & Product Development** – Full-cycle from schematic to functional prototype with real-time testing and debugging.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 My Core Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,cpp,arduino,mongodb,firebase,git,vercel,figma,linux,solidity&perline=8" />
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,linux,git,vscode&theme=dark" />
 </p>
+
+- 💡 Microcontrollers: ESP32, ATSAMD21, STM32
+- 🧠 Firmware: C/C++, FreeRTOS, LVGL, UART/SPI/I2C handling
+- 📐 Tools: KiCad, SolidWorks, MPLAB X IDE, Logic Analyzers
+- 📶 Connectivity: MQTT, HTTP, AT Commands (Quectel/GSM), RS485
+- 🧪 Testing: Oscilloscopes, Multimeters, Protocol Analyzers
+
+---
+
+### 📱 Software & Dev (Secondary Skills)
+
+While my main expertise is in hardware and embedded systems, I also work with:
+
+- 📱 **React Native** (basic mobile apps using Expo/Bare)
+- 🌐 **Node.js & MongoDB** (simple backend APIs and dashboards)
+- ☁️ **Firebase, MQTT brokers, server integration**
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahadev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahadev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -47,15 +63,16 @@
 
 ---
 
-### 🧠 Projects I'm Proud Of
-- ⚙️ **Smart Coffee Machine System**
-  - Custom PCB, sensors, heater & motor control, touchscreen UI with LVGL, cloud logging.
+### 🧠 Highlight Projects
 
-- 💊 **IoT Medication Manager**
-  - React Native app, MQTT-controlled dispenser hardware, doctor/patient/relative management.
+- 🔧 **Smart Coffee Machine System**
+  - Custom PCB, embedded control, motor/heater systems, UART/MQTT communication, touchscreen UI (LVGL).
+  
+- 💊 **Medication Dispenser**
+  - Wi-Fi connected embedded system with dispensing motors, sensor feedback, and app integration.
 
-- 📈 **Lightweight ERP for SMEs**
-  - Dashboard + mobile + backend system for textile and manufacturing industries with live tracking.
+- 📦 **Custom Controller Boards**
+  - Designed boards for commercial and industrial applications with robust firmware and interfacing.
 
 ---
 
@@ -71,4 +88,4 @@
 
 ---
 
-> _"Work until your idols become your rivals."_ – Cristiano Ronaldo 💪
+> _“Perfection is not attainable, but if we chase perfection we can catch excellence.”_ – Vince Lombardi
