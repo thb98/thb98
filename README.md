@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=Designing+PCBs+that+power+real+products;Building+smart+systems+with+IoT;Creating+embedded+firmware+for+devices" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=440&lines=designing+PCBs+that+power+real+products;building+smart+systems+with+IoT;creating+embedded+firmware+for+devices" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
   <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi,linux,git,vscode&theme=dark" />
 </p>
 
-- 💡 Microcontrollers: ESP32, ATSAMD21, STM32
+- 💡 Microcontrollers: ESP32, ATSAM, ATMEGA
 - 🧠 Firmware: C/C++, FreeRTOS, LVGL, UART/SPI/I2C handling
 - 📐 Tools: KiCad, SolidWorks, MPLAB X IDE, Logic Analyzers
 - 📶 Connectivity: MQTT, HTTP, AT Commands (Quectel/GSM), RS485
